@@ -1,0 +1,10 @@
+From the Command Line:
+1. Create your Project Directory
+2. Cd into the Directory and create a new Console Project as such:
+    dotnet new console -n HelloWorld ==> dotnet new <Template_Type> -n Name_Of_Project
+
+3. cd into the Name_Of_Project directory and see the startUp files:
+
+4. Run the project: dotnet run ==> Plain Run:
+    or 
+    dotnet watch run ==> Proactively watches for changes in our source file and updates our project accordingly.

@@ -1,0 +1,23 @@
+INSERT INTO TutorialAppSchema.Computer(
+            
+            Motherboard,
+            HasWifi,
+            HasLTE,
+            CPUCores,
+            ReleaseDate,
+            Price,
+            VideoCard
+        ) VALUES (
+            'Z690', 'True', 'False', '16', '2023-11-14','987.786','Intel Corei9' )
+INSERT INTO TutorialAppSchema.Computer(
+            
+            Motherboard,
+            HasWifi,
+            HasLTE,
+            CPUCores,
+            ReleaseDate,
+            Price,
+            VideoCard
+        ) VALUES (
+            'Z690', 'True', 'False', '16', '2023-11-14','987.786','Intel Corei9' )
+ 

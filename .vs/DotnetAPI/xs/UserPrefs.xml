@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{B2908183-2404-44CC-86F4-E07BE30947E8}|http">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Data/UserRepository.cs">
+    <Files>
+      <File FileName="Data/UserRepository.cs" Line="1" Column="1" />
+      <File FileName="Data/IUserRepository.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DotnetAPI" expanded="True">
+            <Node name="DotnetAPI" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="UserRepository.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DotnetAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+</Properties>
